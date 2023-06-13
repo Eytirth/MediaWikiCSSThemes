@@ -1,4 +1,4 @@
-[Skin by Tali64#9984 on Discord]
+
 
 @media all and (min-width: 1000px) {
 	.mw-checkbox-hack-button {
@@ -26,7 +26,7 @@
 }
 .mw-content-container {
 	background: #ffffff;
-        border-radius: 15px;
+    border: 1px solid #a7d7f9;
 	margin-top: 27px;
 	max-width: none;
 	padding: 20px;
@@ -69,10 +69,10 @@
 /  visibility: hidden;
 /}
 
-/* Use this code if you want the table of contents but blends to the skin*/
+/* Use this code if you want the table of contents but blending into to the skin*/
 
 /.sidebar-toc {
-/	background: #f6f6f6;
-/    border-right: 1px solid #a7d7f9;;
-/    width: 236px
-/ }
+/background: #f6f6f6;
+/border-right: 1px solid #a7d7f9;;
+/width: 236px
+/}
