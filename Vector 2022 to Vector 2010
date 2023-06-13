@@ -62,3 +62,25 @@
 .vector-sticky-header {
 	display: none;
 }
+
+/* Use this code if you want a Vector 2010 like lack of table of contents */
+
+/.mw-table-of-contents-container {
+/  display: none;
+/  visibility: hidden;
+/}
+
+/* Use this code if you want a Vector 2010 like lack of table of contents */
+/.mw-table-of-contents-container {
+/  display: none;
+/  visibility: hidden;
+/}
+
+
+/* Use this code if you want a the table of contents but blending in to the skin*/
+
+/.sidebar-toc {
+/	background: #f6f6f6;
+/    border-right: 1px solid #a7d7f9;;
+/    width: 236px
+/ }
